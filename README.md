@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abananasquish
-- 👀 I’m interested in ...learing how to write code and start a career in tech 
-- 🌱 I’m currently learning ...HTML/CSS
-- 💞️ I’m looking to collaborate on ...resources for beginners
-- 📫 How to reach me ...
+- 👀 I’m interested in ...learing how to program.
+- 🌱 I’m currently learning ...JavaScript! 
+- 💞️ I’m looking to collaborate on ...resources for beginners, especially no cost ones!
+- 📫 How to reach me ... send a message! 
 
 <!---
 abananasquish/abananasquish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
